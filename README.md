@@ -42,7 +42,7 @@ S. Cheng, R. Chan and A. Du, "CACFTNet: A Hybrid Cov-Attention and Cross-Layer F
   doi={10.1109/TGRS.2024.3374081}}
 
 ## Citation
-S. Cheng, R. Chan and A. Du, "CACFTNet: A Hybrid Cov-Attention and Cross-Layer Fusion Transformer Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-17, 2024 ()
+S. Cheng, R. Chan and A. Du, "CACFTNet: A Hybrid Cov-Attention and Cross-Layer Fusion Transformer Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-17, 2024 (https://github.com/cslxju/HyperspectralImageClassification_CACFTNet_TGRS2024)
 
 
 
